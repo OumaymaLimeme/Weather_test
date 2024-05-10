@@ -1,0 +1,7 @@
+name: 'Weather App'
+type: module
+description: 'Displays weather information for Tunis.'
+core_version_requirement: ^8 || ^9 || ^10
+package: Custom
+dependencies:
+  - block:block
